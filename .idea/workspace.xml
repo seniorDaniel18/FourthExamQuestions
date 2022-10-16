@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbaa90b0-ffa4-4831-831b-433b205f4871" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FntT3Of4LbQ8xWrRcNFs2XYBkz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbaa90b0-ffa4-4831-831b-433b205f4871" name="Changes" comment="" />
+      <created>1665139681192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665139681192</updated>
+      <workItem from="1665139683009" duration="1142000" />
+      <workItem from="1665149165718" duration="4073000" />
+      <workItem from="1665154546092" duration="2208000" />
+      <workItem from="1665157461825" duration="894000" />
+      <workItem from="1665158410807" duration="197000" />
+      <workItem from="1665158667531" duration="876000" />
+      <workItem from="1665159720851" duration="99000" />
+      <workItem from="1665159879623" duration="3215000" />
+      <workItem from="1665226947704" duration="83000" />
+      <workItem from="1665227048268" duration="8702000" />
+      <workItem from="1665243588972" duration="156000" />
+      <workItem from="1665243761817" duration="4283000" />
+      <workItem from="1665261686629" duration="234000" />
+      <workItem from="1665262010840" duration="210000" />
+      <workItem from="1665329492204" duration="165000" />
+      <workItem from="1665329804201" duration="1909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
